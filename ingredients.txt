@@ -6,3 +6,4 @@ salt
 white pepper
 black pepper
 green pepper
+orange pepper
