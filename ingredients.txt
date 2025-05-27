@@ -5,3 +5,4 @@ garlic
 salt
 white pepper
 black pepper
+green pepper
