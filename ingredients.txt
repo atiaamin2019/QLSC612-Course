@@ -2,6 +2,5 @@ avacado
 tomato
 lime
 garlic
-cilantro
 salt
-pepper
+black pepper
